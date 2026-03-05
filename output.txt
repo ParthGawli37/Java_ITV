@@ -1,0 +1,5 @@
+Automation executed startedTest case 1 passed.
+Test case 2 fialed.
+Automation executed started
+Test case 1 passed.
+Test case 2 fialed.

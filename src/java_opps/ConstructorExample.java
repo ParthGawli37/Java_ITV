@@ -41,6 +41,7 @@ public class ConstructorExample {
 
 //        ConstructorExample obj1 = new ConstructorExample();            // calls default constructor
     	ConstructorExample obj2 = new ConstructorExample("Parth", 22);
+    	obj2.close();
  // calls parameterized constructor
     }
     

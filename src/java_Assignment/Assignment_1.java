@@ -3,9 +3,9 @@ package java_Assignment;
 import java.util.Scanner;
 
 public class Assignment_1 {
-    public static void main(String[] args) {
 
-        // Primitive Data Types
+	public static void main(String[] args) {
+		// Primitive Data Types
         byte b = 10;
         short s = 2000;
         int i = 50000;
@@ -50,5 +50,8 @@ public class Assignment_1 {
         }
 
         sc.close();
-    }
+	
+
+	}
+
 }
