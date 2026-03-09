@@ -36,6 +36,8 @@ public class Assignment_7 {
 			System.out.println("Program finished.");
 		}
 		
+		sc.close();
+		
 		//Q4
 		try {
 			int x = 10 / 0;
@@ -59,6 +61,4 @@ public class Assignment_7 {
 	}
 	
 	
-	
-
 }
